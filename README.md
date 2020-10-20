@@ -4,6 +4,6 @@ My landing page used by default in every project
 
 # Resources
 
-[W3 Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
+The original one I've found is on [w3schools](https://www.w3schools.com/w3css/w3css_templates.asp) or maybe they removed it
 
-[Unsplash](https://unsplash.com/s/photos/coffee)
+I use [Unsplash](https://unsplash.com/s/photos/coffee) for the images
